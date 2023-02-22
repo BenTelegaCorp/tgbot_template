@@ -1,4 +1,4 @@
-# tgbot_template
+# Шаблон телеграм бота
 
 
 ## About the template
